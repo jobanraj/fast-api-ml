@@ -1,0 +1,9 @@
+[
+  { "url": "https://react.dev/reference/react/useState", "topic": "react" },
+  { "url": "https://react.dev/reference/react/useEffect", "topic": "react" },
+  { "url": "https://react.dev/reference/react/useRef", "topic": "react" },
+  { "url": "https://react.dev/reference/react/useMemo", "topic": "react" },
+  { "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures", "topic": "javascript" },
+  { "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise", "topic": "javascript" },
+  { "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function", "topic": "javascript" }
+]

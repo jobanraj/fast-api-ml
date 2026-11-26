@@ -1,0 +1,11 @@
+{
+  "name": "devdocs-copilot",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n api,web -c cyan,yellow \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "seed": "npm --prefix server run seed",
+    "seed:official": "npm --prefix server run seed:official"
+  },
+  "devDependencies": { "concurrently": "^9.0.1" }
+}
