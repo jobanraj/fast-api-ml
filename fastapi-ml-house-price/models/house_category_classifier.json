@@ -1,0 +1,18 @@
+{
+  "name": "house_category_classifier",
+  "task": "classification",
+  "version": "2026.11.26",
+  "metrics": {
+    "accuracy": 0.952,
+    "f1": 0.9195,
+    "premium_price_threshold": 382579.61
+  },
+  "features": [
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "age_years",
+    "distance_to_city_km",
+    "garage"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "house_price_regressor",
+  "task": "regression",
+  "version": "2026.11.26",
+  "metrics": {
+    "r2": 0.9806,
+    "mae": 13911.94
+  },
+  "features": [
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "age_years",
+    "distance_to_city_km",
+    "garage"
+  ]
+}
