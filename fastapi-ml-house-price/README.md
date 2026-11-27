@@ -1,4 +1,5 @@
 # House Price ML API (FastAPI + scikit-learn)
+"https://www.youtube.com/watch?v=2tagcO5v9aw"
 
 Serve trained machine-learning models as a REST API. Built as a hands-on companion to the
 "FastAPI for Machine Learning" course outline: FastAPI basics, path/query parameters, Pydantic
